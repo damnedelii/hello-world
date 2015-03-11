@@ -1,2 +1,3 @@
 # hello-world
-simple repository
+Simple repository.
+Made for study purpose only. 
